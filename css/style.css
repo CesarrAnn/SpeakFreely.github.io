@@ -73,7 +73,7 @@ h2 {
     
 }
 .fondo__seccion{
-    background-image: url('../img/fondoSeñas.jpeg');
+    background-image: url(../img/fondoSeñas.jpeg);
     height: 80rem;
     background-repeat: no-repeat;
     background-size: cover;
